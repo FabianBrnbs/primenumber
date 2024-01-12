@@ -1,0 +1,10 @@
+D:\Fábián Barnabas\primenumbers\bin\Debug\primenumbers.exe.config
+D:\Fábián Barnabas\primenumbers\bin\Debug\primenumbers.exe
+D:\Fábián Barnabas\primenumbers\bin\Debug\primenumbers.pdb
+D:\Fábián Barnabas\primenumbers\obj\Debug\primenumbers.csproj.AssemblyReference.cache
+D:\Fábián Barnabas\primenumbers\obj\Debug\primenumbers.Form1.resources
+D:\Fábián Barnabas\primenumbers\obj\Debug\primenumbers.Properties.Resources.resources
+D:\Fábián Barnabas\primenumbers\obj\Debug\primenumbers.csproj.GenerateResource.cache
+D:\Fábián Barnabas\primenumbers\obj\Debug\primenumbers.csproj.CoreCompileInputs.cache
+D:\Fábián Barnabas\primenumbers\obj\Debug\primenumbers.exe
+D:\Fábián Barnabas\primenumbers\obj\Debug\primenumbers.pdb
